@@ -27,7 +27,7 @@ setup(
     version=find_version('diligent', '__init__.py'),
     url='https://github.com/stefanw/pandas-diligent',
     license='MIT',
-    description="",
+    description="Data proofing tool for pandas dataframes.",
     long_description=read('README.md'),
     author='Stefan Wehrmeyer',
     author_email='mail@stefanwehrmeyer.com',
